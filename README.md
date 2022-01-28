@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Backend technologies and Jon bellion
 - 📫 How to reach me: [send me a mail](mailto:emekaemmanuel045@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: python feels like advanced YAML to me
+- ⚡ Fun fact: 🥴
 
 <a href="https://github.com/emmanuerl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuerl&show_icons=true&theme=merko&count_private=true" alt="My github stats" />
