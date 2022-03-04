@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on [The bridge marketplace](https://bridge.africa/)
+- 🔭 Co-Founder and Backend Lead, [The bridge marketplace](https://bridge.africa/)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on anything pertaining to helping developers
 - 💬 Ask me about Backend technologies and Jon bellion
