@@ -1,5 +1,5 @@
 ### Hi there , im Kruse👋
-I'm Chukwuemeka Emmanuel Chukwurah (alias is kruse) and i'm a software developer with a lot of passion for building serveer side applications and a huge fan of low level programming. i'm also a lover of good music and i always take out time to update my playlist 👉🏾👈🏾.
+I'm Chukwuemeka Emmanuel Chukwurah (alias is kruse) and i'm a software developer with a lot of passion for building server side applications and a huge fan of low level programming. i'm also a lover of good music and i always take out time to update my playlist 👉🏾👈🏾.
 <!--
 **Emmanuerl/Emmanuerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
