@@ -4,9 +4,10 @@ I'm Chukwuemeka Emmanuel Chukwurah (alias is kruse) and i'm a software developer
 **Emmanuerl/Emmanuerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
--->
+
 
 - 🔭 Co-Founder, [The bridge marketplace](https://bridge.africa/)
+-->
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on anything pertaining to helping developers
 - 💬 Ask me about Backend technologies and Jon bellion
